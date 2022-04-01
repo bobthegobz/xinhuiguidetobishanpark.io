@@ -1,0 +1,102 @@
+
+
+header {
+  color: #065b5e;
+  text-align: center;
+  padding:0px;
+  margin: 0px;
+  font-family: "Didot"
+}
+
+body {
+  margin: 0;
+  font-family: "Didot"
+}
+
+
+.ultwo {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 15%;
+  background-color: #f1f1f1;
+  position: fixed;
+  height: 100%;
+  overflow: auto;
+}
+
+li a {
+  display: block;
+  color: #000;
+  padding: 8px ;
+  text-decoration: none;
+}
+
+li a.active {
+  background-color: #43a891;
+  color: white;
+}
+
+li a:hover:not(.active) {
+  background-color: #555;
+  color: white;
+}
+
+}
+ul li {
+  font-family: 'didot';
+  color: #065b5e;
+  font-size: 20px;
+}
+
+#barhead {
+  background-color: #065b5e;
+  font-size: 30px;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  margin: 0px;
+  margin-left:15%
+}
+
+#notice {
+  background-color: #ffbb00;
+  text-align: center;
+  padding: 10px;
+  margin: 0px;
+}
+
+#ptwo {
+  width: 70%; 
+  margin-left:15%
+}
+
+#picdim {
+  width: 60%
+}
+
+#subheader {
+  font-size: 30px;
+  color: #065b5e;
+  text-align: center;
+  padding: 5px;
+  margin: 0px;
+}
+
+td, th {
+  border: 1px solid #404040;
+  text-align: left;
+  padding: 10px;
+}
+
+th {
+  background-color: #065b5e;
+  color: white
+}
+
+td {
+  background-color: #ffebb5;
+  color: #065b5e
+}
+
+
